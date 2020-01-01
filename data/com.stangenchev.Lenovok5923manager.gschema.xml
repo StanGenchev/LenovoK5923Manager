@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="lenovok5923manager">
+	<schema id="com.stangenchev.Lenovok5923manager" path="/com/stangenchev/Lenovok5923manager/">
+	</schema>
+</schemalist>

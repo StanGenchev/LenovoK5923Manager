@@ -1,0 +1,7 @@
+data/com.stangenchev.Lenovok5923manager.desktop.in
+data/com.stangenchev.Lenovok5923manager.appdata.xml.in
+data/com.stangenchev.Lenovok5923manager.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
