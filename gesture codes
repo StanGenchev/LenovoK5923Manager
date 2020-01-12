@@ -1,0 +1,198 @@
+# Left edge swipe
+Event: time 1577641487.731136, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641487.731136, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 1
+Event: time 1577641487.731136, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577641487.731136, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 1
+Event: time 1577641487.731136, -------------- SYN_REPORT ------------
+Event: time 1577641487.755043, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7002a
+Event: time 1577641487.755043, type 1 (EV_KEY), code 14 (KEY_BACKSPACE), value 1
+Event: time 1577641487.755043, -------------- SYN_REPORT ------------
+Event: time 1577641487.771123, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7002a
+Event: time 1577641487.771123, type 1 (EV_KEY), code 14 (KEY_BACKSPACE), value 0
+Event: time 1577641487.771123, -------------- SYN_REPORT ------------
+Event: time 1577641487.795125, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641487.795125, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 0
+Event: time 1577641487.795125, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577641487.795125, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 0
+Event: time 1577641487.795125, -------------- SYN_REPORT ------------
+
+
+# Right edge swipe
+Event: time 1577641522.634124, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1577641522.634124, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 1
+Event: time 1577641522.634124, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577641522.634124, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 1
+Event: time 1577641522.634124, -------------- SYN_REPORT ------------
+Event: time 1577641522.650131, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70072
+Event: time 1577641522.650131, type 1 (EV_KEY), code 193 (KEY_F23), value 1
+Event: time 1577641522.650131, -------------- SYN_REPORT ------------
+Event: time 1577641522.674112, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70072
+Event: time 1577641522.674112, type 1 (EV_KEY), code 193 (KEY_F23), value 0
+Event: time 1577641522.674112, -------------- SYN_REPORT ------------
+Event: time 1577641522.698114, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1577641522.698114, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 0
+Event: time 1577641522.698114, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577641522.698114, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 0
+Event: time 1577641522.698114, -------------- SYN_REPORT ------------
+
+
+# Top to Bottom edge Swipe
+Event: time 1577641565.216891, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1577641565.216891, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 1
+Event: time 1577641565.216891, -------------- SYN_REPORT ------------
+Event: time 1577641565.240821, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7003d
+Event: time 1577641565.240821, type 1 (EV_KEY), code 62 (KEY_F4), value 1
+Event: time 1577641565.240821, -------------- SYN_REPORT ------------
+Event: time 1577641565.256817, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7003d
+Event: time 1577641565.256817, type 1 (EV_KEY), code 62 (KEY_F4), value 0
+Event: time 1577641565.256817, -------------- SYN_REPORT ------------
+Event: time 1577641565.280830, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1577641565.280830, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 0
+Event: time 1577641565.280830, -------------- SYN_REPORT ------------
+
+
+# Top edge swipe
+Event: time 1577641599.519909, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641599.519909, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 1
+Event: time 1577641599.519909, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577641599.519909, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 1
+Event: time 1577641599.519909, -------------- SYN_REPORT ------------
+Event: time 1577641599.535922, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70072
+Event: time 1577641599.535922, type 1 (EV_KEY), code 193 (KEY_F23), value 1
+Event: time 1577641599.535922, -------------- SYN_REPORT ------------
+Event: time 1577641599.559893, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70072
+Event: time 1577641599.559893, type 1 (EV_KEY), code 193 (KEY_F23), value 0
+Event: time 1577641599.559893, -------------- SYN_REPORT ------------
+Event: time 1577641599.575828, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641599.575828, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 0
+Event: time 1577641599.575828, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577641599.575828, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 0
+Event: time 1577641599.575828, -------------- SYN_REPORT ------------
+
+
+# Pinch in
+Event: time 1577641623.879201, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641623.879201, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 1
+Event: time 1577641623.879201, -------------- SYN_REPORT ------------
+Event: time 1577641623.911195, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641623.911195, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 0
+Event: time 1577641623.911195, -------------- SYN_REPORT ------------
+
+
+# Pinch out
+Event: time 1577641652.414399, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641652.414399, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 1
+Event: time 1577641652.414399, -------------- SYN_REPORT ------------
+Event: time 1577641652.438393, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641652.438393, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 0
+Event: time 1577641652.438393, -------------- SYN_REPORT ------------
+
+
+# Rotate Clockwise
+Event: time 1577641975.093431, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641975.093431, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 1
+Event: time 1577641975.093431, -------------- SYN_REPORT ------------
+Event: time 1577641975.109424, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70037
+Event: time 1577641975.109424, type 1 (EV_KEY), code 52 (KEY_DOT), value 1
+Event: time 1577641975.109424, -------------- SYN_REPORT ------------
+.Event: time 1577641975.133433, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577641975.133433, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 0
+Event: time 1577641975.133433, -------------- SYN_REPORT ------------
+Event: time 1577641975.149425, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70037
+Event: time 1577641975.149425, type 1 (EV_KEY), code 52 (KEY_DOT), value 0
+Event: time 1577641975.149425, -------------- SYN_REPORT ------------
+
+
+# Rotate Counter clockwise
+Event: time 1577642005.644562, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577642005.644562, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 1
+Event: time 1577642005.644562, -------------- SYN_REPORT ------------
+Event: time 1577642005.668546, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70036
+Event: time 1577642005.668546, type 1 (EV_KEY), code 51 (KEY_COMMA), value 1
+Event: time 1577642005.668546, -------------- SYN_REPORT ------------
+,Event: time 1577642005.684552, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1577642005.684552, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 0
+Event: time 1577642005.684552, -------------- SYN_REPORT ------------
+Event: time 1577642005.708543, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70036
+Event: time 1577642005.708543, type 1 (EV_KEY), code 51 (KEY_COMMA), value 0
+Event: time 1577642005.708543, -------------- SYN_REPORT ------------
+
+# 3 Finger swipe right
+Event: time 1577642060.738952, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1577642060.738952, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 1
+Event: time 1577642060.738952, -------------- SYN_REPORT ------------
+Event: time 1577642060.762966, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7004f
+Event: time 1577642060.762966, type 1 (EV_KEY), code 106 (KEY_RIGHT), value 1
+Event: time 1577642060.762966, -------------- SYN_REPORT ------------
+Event: time 1577642060.778954, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7004f
+Event: time 1577642060.778954, type 1 (EV_KEY), code 106 (KEY_RIGHT), value 0
+Event: time 1577642060.778954, -------------- SYN_REPORT ------------
+Event: time 1577642060.802968, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1577642060.802968, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 0
+Event: time 1577642060.802968, -------------- SYN_REPORT ------------
+
+# 3 Finger swipe left
+Event: time 1577642135.088832, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1577642135.088832, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 1
+Event: time 1577642135.088832, -------------- SYN_REPORT ------------
+Event: time 1577642135.112829, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70050
+Event: time 1577642135.112829, type 1 (EV_KEY), code 105 (KEY_LEFT), value 1
+Event: time 1577642135.112829, -------------- SYN_REPORT ------------
+Event: time 1577642135.128763, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70050
+Event: time 1577642135.128763, type 1 (EV_KEY), code 105 (KEY_LEFT), value 0
+Event: time 1577642135.128763, -------------- SYN_REPORT ------------
+Event: time 1577642135.152756, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1577642135.152756, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 0
+Event: time 1577642135.152756, -------------- SYN_REPORT ------------
+
+# 3 Finger swipe down
+Event: time 1577642181.055498, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7004e
+Event: time 1577642181.055498, type 1 (EV_KEY), code 109 (KEY_PAGEDOWN), value 1
+Event: time 1577642181.055498, -------------- SYN_REPORT ------------
+Event: time 1577642181.071492, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7004e
+Event: time 1577642181.071492, type 1 (EV_KEY), code 109 (KEY_PAGEDOWN), value 0
+Event: time 1577642181.071492, -------------- SYN_REPORT ------------
+
+# 3 Finger swipe up
+Event: time 1577642219.710378, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7004b
+Event: time 1577642219.710378, type 1 (EV_KEY), code 104 (KEY_PAGEUP), value 1
+Event: time 1577642219.710378, -------------- SYN_REPORT ------------
+Event: time 1577642219.726378, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7004b
+Event: time 1577642219.726378, type 1 (EV_KEY), code 104 (KEY_PAGEUP), value 0
+Event: time 1577642219.726378, -------------- SYN_REPORT ------------
+
+# 4 Finger swipe down
+Event: time 1577642253.285396, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577642253.285396, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 1
+Event: time 1577642253.285396, -------------- SYN_REPORT ------------
+Event: time 1577642253.309381, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70007
+Event: time 1577642253.309381, type 1 (EV_KEY), code 32 (KEY_D), value 1
+Event: time 1577642253.309381, -------------- SYN_REPORT ------------
+Event: time 1577642253.325382, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70007
+Event: time 1577642253.325382, type 1 (EV_KEY), code 32 (KEY_D), value 0
+Event: time 1577642253.325382, -------------- SYN_REPORT ------------
+Event: time 1577642253.349384, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577642253.349384, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 0
+Event: time 1577642253.349384, -------------- SYN_REPORT ------------
+
+# 4 Finger swipe up
+Event: time 1577642283.108501, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577642283.108501, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 1
+Event: time 1577642283.108501, -------------- SYN_REPORT ------------
+Event: time 1577642283.124440, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577642283.124440, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 0
+Event: time 1577642283.124440, -------------- SYN_REPORT ------------
+
+# 4 Finger swipe right
+Event: time 1577642337.034897, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577642337.034897, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 1
+Event: time 1577642337.034897, -------------- SYN_REPORT ------------
+Event: time 1577642337.058901, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7000f
+Event: time 1577642337.058901, type 1 (EV_KEY), code 38 (KEY_L), value 1
+Event: time 1577642337.058901, -------------- SYN_REPORT ------------
+Event: time 1577642337.074844, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7000f
+Event: time 1577642337.074844, type 1 (EV_KEY), code 38 (KEY_L), value 0
+Event: time 1577642337.074844, -------------- SYN_REPORT ------------
+Event: time 1577642337.098879, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e3
+Event: time 1577642337.098879, type 1 (EV_KEY), code 125 (KEY_LEFTMETA), value 0
+Event: time 1577642337.098879, -------------- SYN_REPORT ------------
